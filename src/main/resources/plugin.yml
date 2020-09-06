@@ -1,0 +1,7 @@
+name: Twittercraft
+version: ${project.version}
+main: com.bun133.twittercraft.Twittercraft
+api-version: 1.15
+authors: [Bun133]
+description: Twitter Followers will be shown below the players
+website: https://twitter.com/bun133_
